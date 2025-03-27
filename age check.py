@@ -1,4 +1,4 @@
-Tom_age = 10
+Tom_age = 15
 kindergaten_age = 5
 if Tom_age > kindergaten_age:
     print("Tom should go to ppreschool")
